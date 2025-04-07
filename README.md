@@ -2,8 +2,6 @@
 <h3 align="center">Passionate Software Engineer | Full-Stack & Backend Developer | Building Secure, Scalable, Smart Systems</h3>
 
 - 📫 How to reach me **gangavaraputejanvesh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
