@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tejanvesh Gangavarapu</h1>
 <h3 align="center">Passionate Software Engineer | Full-Stack & Backend Developer | Building Secure, Scalable, Smart Systems</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejanveshg" alt="tejanveshg" /></a> </p>
-
 - 📫 How to reach me **gangavaraputejanvesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
